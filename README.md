@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rawan! 👋
+<br />
 
-<!--
-**RawanDiyaa-D/RawanDiyaa-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Untitled Project](https://github.com/user-attachments/assets/47361cca-5ba7-4d24-b1b0-9d56f55e55ed)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  ## 🛠️ Tech Stack
+  <br />
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,git,postman&perline=5" />
+
+</div>
