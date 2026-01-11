@@ -1,7 +1,8 @@
 # Hi, I'm Rawan! 👋
 <br />
 
-![Untitled Project](https://github.com/user-attachments/assets/47361cca-5ba7-4d24-b1b0-9d56f55e55ed)
+![Untitled Project (2)](https://github.com/user-attachments/assets/bab4c564-d653-4550-846e-b1866c36ced0)
+
 
 
 <div align="center">
