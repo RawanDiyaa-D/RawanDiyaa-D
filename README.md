@@ -13,6 +13,6 @@
 </div>
 
 ## 🌐 Connect with Me
-  <a href="https://www.linkedin.com/in/rawan-diyaa-9a71023a0/">
+  <a href="https://www.linkedin.com/in/rawan-diyaa-9a71023a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
