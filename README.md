@@ -8,6 +8,6 @@
   ## 🛠️ Tech Stack
   <br />
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,nextjs,git,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,react,nextjs,git,vscode,npm,figma,github,postman&perline=5" />
 
 </div>
